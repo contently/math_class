@@ -12,7 +12,7 @@ Each lesson's content will be delivered in the form of a _Jupyter notebook_. Thi
 
 That said, it's hard to beat a good 'ol fashioned pen and paper for math, and if you'd like to participate in this way you should feel free to do so! This will work for many, though not all, of the classes. You're welcome to try to follow along in another language, too. Note that this would likely leave you on your own with respect to implementation details, which could become problematic as we get farther along. But you should feel free to experiment as you wish - you can always come back to working in Python. Please see [here](https://github.com/lermana/math_class/blob/master/python_resources.md) for a list of resources to help you further your Python, and feel free to update it with your thoughts and recommendations!
 
-If you do wish to use Python, I would recommend using at least version 3.6. You will also need to install the `jupyter` package. Additionally, the following analytical libraries would be helpful to have ready-to-go:
+If you do wish to use Python, I would recommend using at least version 3.6. You will also need to install the `jupyter` package. Additionally, the following analytical libraries would be helpful to have ready to go:
 - `numpy`
 - `scipy`
 - `matplotlib`
@@ -21,7 +21,7 @@ If you do wish to use Python, I would recommend using at least version 3.6. You 
 - `statsmodels`
 - `requests` (this is for HTTP - always handy to have installed)
 
-The simplest approach for folks who don't already have a good Python set up is likely to download and install the _Anaconda_ Python distribution, which will include all of these packages and also many others. You can download this from [here](https://www.google.com/url?q=https%3A%2F%2Frepo.continuum.io%2Farchive%2FAnaconda3-2018.12-MacOSX-x86_64.pkg&sa=D&ust=1547655216810000&usg=AFQjCNE5LRmMSVTwl_SzMrp3iGGaA-Maaw). Otherwise, once Python 3.6+ is installed, you can go ahead and just use `pip` to install each of the above packages.
+The simplest approach for folks who don't already have a good Python setup is likely to download and install the _Anaconda_ Python distribution, which will include all of these packages and also many others. You can download this from [here](https://www.google.com/url?q=https%3A%2F%2Frepo.continuum.io%2Farchive%2FAnaconda3-2018.12-MacOSX-x86_64.pkg&sa=D&ust=1547655216810000&usg=AFQjCNE5LRmMSVTwl_SzMrp3iGGaA-Maaw). Otherwise, once Python 3.6+ is installed, you can go ahead and just use `pip` to install each of the above packages.
 
 ### High-Level, Estimated Syllabus
 
