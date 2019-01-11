@@ -1,4 +1,4 @@
-# Python fundamentals
+# Fundamental
 
 ### Online
 
@@ -13,7 +13,7 @@ Abe's notebook on Python basics that he used as part of a seminar taught at Ford
 Book written by author of the `pandas` library on using Python for data analysis:
 - https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_3?ie=UTF8&qid=1547242406&sr=8-3&keywords=python+for+data+analysis+mckinney
 
-# Advanced Python
+# Advanced
 
 ### Online
 
