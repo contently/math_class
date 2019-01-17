@@ -21,7 +21,9 @@ If you do wish to use Python, I would recommend using at least version 3.6. You 
 - `statsmodels`
 - `requests` (this is for HTTP - always handy to have installed)
 
-The simplest approach for folks who don't already have a good Python setup is likely to download and install the _Anaconda_ Python distribution, which will include all of these packages and also many others. You can download that [here](https://www.google.com/url?q=https%3A%2F%2Frepo.continuum.io%2Farchive%2FAnaconda3-2018.12-MacOSX-x86_64.pkg&sa=D&ust=1547655216810000&usg=AFQjCNE5LRmMSVTwl_SzMrp3iGGaA-Maaw). Otherwise, once Python 3.6+ is installed, you can go ahead and just use `pip` to install each of the above packages.
+The simplest approach for folks who don't already have a good Python setup is likely to download and install the _Anaconda_ Python distribution, which will include all of these packages and also many others. You can download that [here](https://www.google.com/url?q=https%3A%2F%2Frepo.continuum.io%2Farchive%2FAnaconda3-2018.12-MacOSX-x86_64.pkg&sa=D&ust=1547655216810000&usg=AFQjCNE5LRmMSVTwl_SzMrp3iGGaA-Maaw). 
+
+Otherwise, once Python 3.6+ is installed, you can either run `pip install -r requirements.txt` from within this directory or go ahead and just individually install each of the above packages.
 
 ### High-Level, Estimated Syllabus
 
