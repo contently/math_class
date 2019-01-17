@@ -25,8 +25,8 @@ The simplest approach for folks who don't already have a good Python setup is li
 
 ### High-Level, Estimated Syllabus
 
-1. Numbers
-2. Probability & Statistics I
+1. [Numbers and Operators](https://github.com/contently/math_class/blob/master/numbers_and_operators.ipynb)
+2. [Basic Probability](https://github.com/contently/math_class/blob/master/basic_probability.ipynb)
 3. Functions I
 4. Calculus I
 5. Calculus II
