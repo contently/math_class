@@ -25,6 +25,25 @@ The simplest approach for folks who don't already have a good Python setup is li
 
 Otherwise, once Python 3.6+ is installed, you can either run `pip install -r requirements.txt` from within this directory or go ahead and just individually install each of the above packages.
 
+### Docker Setup
+If you are running [Docker](https://www.docker.com/), you can use the `start` command from the terminal to simply load the notebook without installing dependencies or python locally.
+
+```sh
+$ ./start
+```
+
+After the Docker images are set up, you will see a url listed at the end similar to this:
+
+```
+Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://(acd90c62cec2 or 127.0.0.1):8888/?token=9647b38f8622f7f33ccf970ecee3a0177e37d3e42ccb2932
+```
+
+Your url is most likely:
+`http://localhost:8888/?token=<that token above>`
+
+
 ### High-Level, Estimated Syllabus
 
 1. [Numbers and Operators](https://github.com/contently/math_class/blob/master/numbers_and_operators.ipynb)
