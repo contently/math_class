@@ -25,7 +25,7 @@ The simplest approach for folks who don't already have a good Python setup is li
 
 Otherwise, once Python 3.6+ is installed, you can either run `pip install -r requirements.txt` from within this directory or go ahead and just individually install each of the above packages.
 
-### Docker Setup
+### Docker Setup (Thanks, Seth!)
 If you are running [Docker](https://www.docker.com/), you can use the `start` command from the terminal to simply load the notebook without installing dependencies or python locally.
 
 ```sh
@@ -48,7 +48,7 @@ Your url is most likely:
 
 1. [Numbers and Operators](https://github.com/contently/math_class/blob/master/numbers_and_operators.ipynb)
 2. [Basic Probability](https://github.com/contently/math_class/blob/master/basic_probability.ipynb)
-3. Functions I
+3. [Functions](https://github.com/contently/math_class/blob/master/functions.ipynb)
 4. Calculus I
 5. Calculus II
 6. Linear Algebra
