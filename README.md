@@ -44,14 +44,16 @@ Your url is most likely:
 `http://localhost:8888/?token=<that token above>`
 
 
-### High-Level, Estimated Syllabus
+### Syllabus
 
 1. [Numbers and Operators](https://github.com/contently/math_class/blob/master/numbers_and_operators.ipynb)
 2. [Basic Probability](https://github.com/contently/math_class/blob/master/basic_probability.ipynb)
 3. [Functions](https://github.com/contently/math_class/blob/master/functions.ipynb)
 4. [Calculus: Derivatives](https://github.com/contently/math_class/blob/master/calculus_derivatives.ipynb)
-5. Calculus II
-6. Linear Algebra
+5. [Limits](https://github.com/contently/math_class/blob/master/limits.ipynb)
+6. [Calculus: Integrals](https://github.com/contently/math_class/blob/master/calculus_integrals.ipynb)
+
+### Possible Future Topics
 7. Functions II
 8. Calculus III
 9. Decision Trees
