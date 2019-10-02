@@ -52,18 +52,4 @@ Your url is most likely:
 4. [Calculus: Derivatives](https://github.com/contently/math_class/blob/master/calculus_derivatives.ipynb)
 5. [Limits](https://github.com/contently/math_class/blob/master/limits.ipynb)
 6. [Calculus: Integrals](https://github.com/contently/math_class/blob/master/calculus_integrals.ipynb)
-
-### Possible Future Topics
-7. Functions II
-8. Calculus III
-9. Decision Trees
-10. Probability & Statistics II
-11. Linear Regression
-12. Differential Equations
-13. Logistic Regression
-
-### Additional
-
-We have a few months' worth of topics described above. If the class is working well - i.e. folks are learning and enjoying - we can continue on with some additional topics, such as _Autoregression_ (regressing data against itself, which can prove quite effective for modeling time series data), _Robust Statistics_ (a sub-field of Statistics that provides techniques that hold up in face of outliers), and (what I'd call) _Transformations_ (the restructuring of data to make it more suited for certain types of analyses).
-
-Furthermore, pending the proper interest as well as the completion of our fundamentals review, we could let this evolve towards something like an "intro to data science" class.
+7. [Basic Data Science](https://github.com/contently/math_class/blob/master/data_science_101.ipynb) (read: Data Science with Python)
