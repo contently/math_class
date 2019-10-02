@@ -6,3 +6,4 @@ sklearn
 statsmodels
 requests
 jupyter
+openpyxl
